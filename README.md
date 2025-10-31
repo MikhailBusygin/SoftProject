@@ -1,4 +1,4 @@
-# A lightweight Spring Boot service that efficiently finds the N-th smallest number in Excel files. Provides REST API with Swagger documentation and implements optimized algorithms for quick number selection without full array sorting.
+## A lightweight Spring Boot service that efficiently finds the N-th smallest number in Excel files. Provides REST API with Swagger documentation and implements optimized algorithms for quick number selection without full array sorting.
 
 ## Key Features:
 - Reads numeric data from XLSX files
